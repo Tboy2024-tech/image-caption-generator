@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "image-caption-generator-2",
+			"path": "../image-caption-generator-2"
+		}
+	],
+	"settings": {}
+}
